@@ -4,6 +4,7 @@
 
 
 //KNOWN ISSUES:
+    //corner gap
     //not an issue, but weird: why can't I use this.diameter to define another property?
 
 function Circle () {
